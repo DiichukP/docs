@@ -6,7 +6,8 @@ b = Val(Text3)
 i = Val(Text4)
 pi = 3.14
 If 1.5 > (s) >= b Then
-i = Sqr(b) + (Cos((a ^ 2) * s)) ^ 2 / Log(Abs(s - 5))
+HUB
+123
 Prunt "i="
 ElseIf s > b Then
 i = a * b + Tan((s / 3) + (pi / 12))
