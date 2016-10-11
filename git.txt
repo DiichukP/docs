@@ -1,0 +1,17 @@
+Private Sub Label1_Click()
+Dim s, a, b As Single
+s = Val(Text1)
+a = Val(Text2)
+b = Val(Text3)
+i = Val(Text4)
+pi = 3.14
+If 1.5 > (s) >= b Then
+i = Sqr(b) + (Cos((a ^ 2) * s)) ^ 2 / Log(Abs(s - 5))
+Prunt "i="
+ElseIf s > b Then
+i = a * b + Tan((s / 3) + (pi / 12))
+Print "Print i="
+
+Private Sub Label7_Click()
+
+End Sub
